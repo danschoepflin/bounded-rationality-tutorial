@@ -21,19 +21,16 @@
 title: Practical Mechanism Design for Bidders with Bounded Rationality
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  This EC 2023 tutorial will introduce some of the central notions and tools used in the literature on bounded rationality and then provide an overview of some of the most exciting recent results and fundamental open problems.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
 # Build settings
-plugins:
-  - jekyll-feed
-  - jekyll-remote-theme 
 remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+  - jekyll-remote-theme 
 
 # Exclude from processing.
 # The following items will not be processed, by default.
